@@ -1,7 +1,10 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
 **Họ tên:** Trần Ngọc Hùng
-**Nhóm:** [Cần điền cùng nhóm]
+**Nhóm:** [Hung-Thang]
+**Bao gồm:**
+- Trần Ngọc Hùng - 2A202600429
+- Bùi Đức Thắng - 2A202600002
 **Ngày:** 10/04/2026
 
 ---
