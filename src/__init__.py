@@ -12,6 +12,7 @@ from .embeddings import (
     OPENAI_EMBEDDING_MODEL,
     LocalEmbedder,
     MockEmbedder,
+    OllamaEmbedder,
     OpenAIEmbedder,
     _mock_embed,
 )
@@ -29,6 +30,7 @@ __all__ = [
     "KnowledgeBaseAgent",
     "MockEmbedder",
     "LocalEmbedder",
+    "OllamaEmbedder",
     "OpenAIEmbedder",
     "_mock_embed",
     "LOCAL_EMBEDDING_MODEL",
